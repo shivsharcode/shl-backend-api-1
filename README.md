@@ -8,3 +8,10 @@
 
 
    
+<hr>
+#### DEMO FRONTEND WORKING -- CONNECTED WITH BACKEND API
+Link : https://shl-assignment-shivamsharma.streamlit.app/
+
+<hr>
+#### Github repo of COMPLETE PROJECT
+Link : https://github.com/shivsharcode/shl-assessment-recommender
